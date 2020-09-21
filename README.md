@@ -1,3 +1,4 @@
+
   _                                         
  | |                                        
  | | ___ __   _____      __  _ __ ___   ___ 
@@ -6,6 +7,8 @@
  |_|\_\_| |_|\___/ \_/\_/   |_| |_| |_|\___|
                                             
                                             
+
+
 I'm a software developer for over 11 years now and I love the code, science and technology I believe in a better world
 and I think technology can help in the process.
 
