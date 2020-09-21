@@ -1,16 +1,22 @@
-### Hi there 👋
+  _                                         
+ | |                                        
+ | | ___ __   _____      __  _ __ ___   ___ 
+ | |/ / '_ \ / _ \ \ /\ / / | '_ ` _ \ / _ \
+ |   <| | | | (_) \ V  V /  | | | | | |  __/
+ |_|\_\_| |_|\___/ \_/\_/   |_| |_| |_|\___|
+                                            
+                                            
+I'm a software developer for over 11 years now and I love the code, science and technology I believe in a better world
+and I think technology can help in the process.
 
-<!--
-**jacobgacosta/jacobgacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have currently build projects using:
 
-Here are some ideas to get you started:
+- Kotlin
+- Java
+- Python
+- Php
+- Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As well as a variety of tools and technologies underlying the above, I am not limited to new technologies and I love learning new things.
+
+❝Programming is like Lego pieces, you can create incredible things, just a little imagination and perseverance is enough❞
