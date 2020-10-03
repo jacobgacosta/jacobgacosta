@@ -11,6 +11,6 @@ I have currently build projects using:
 - Php
 - Javascript
 
-As well as a variety of tools and technologies underlying the above, I am not limited to new technologies and I love learning new things.
+As well as a variety of tools and technologies, I am not limited to new challenges and I love learning new things.
 
 ❝Programming is like Lego pieces, you can create incredible things, just a little imagination and perseverance is enough❞
