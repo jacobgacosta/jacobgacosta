@@ -1,6 +1,6 @@
 🄺🄽🄾🅆 🄼🄴 •̀.̫•́
 
-I'm a software developer for over 11 years now and I love the code, science and technology I believe in a better world and I think technology can be of great help.
+My name is Jacob and I'm a lover of the code, I like science, hacking, physics, games, music, so on. I have about 12 years of experience working with technologies and creating systems for big companies. I enjoy being a developer and facing new challenges.
 
 I have currently build projects using:
 
@@ -10,6 +10,6 @@ I have currently build projects using:
 - Php
 - Javascript
 
-As well as a variety of tools and technologies, I am not limited to new challenges and I love learning new things.
+As well I know a variety of tools and technologies, I am not limited to new challenges and I love to learn new things.
 
-❝Programming is like Lego pieces, you can create amazing things, just a little imagination and constant effort is enough❞
+**"To move forward, you have to move forward."**
