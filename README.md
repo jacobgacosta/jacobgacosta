@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="margin-top:0; padding-top:0;">
   <img src="https://s3.us-east-1.amazonaws.com/www.jacobga.com/yoninja.svg" 
-       alt="Jacob G.A" style="width:100%; height:950px; object-fit:cover;" />
+       alt="Jacob G.A" style="width:100%; height:950px; object-fit:cover; margin-top:0; padding-top:0;" />
 </div>
