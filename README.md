@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://jacobga.com/">
-    <img src="https://s3.us-east-1.amazonaws.com/www.jacobga.com/jgasqr.png" width="160px" alt="Jacob G.A QR" />
+    <img src="https://s3.us-east-1.amazonaws.com/www.jacobga.com/jgaqrs.png" width="160px" alt="Jacob G.A QR" />
   </a>
   <br />
   <h3>Systems Architect • AI Engineer • Senior Builder • Hacker of Systems</h3>
