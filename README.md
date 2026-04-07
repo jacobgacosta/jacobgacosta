@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://jacobga.com/">
-    <img src="https://s3.us-east-1.amazonaws.com/www.jacobga.com/jgaqrs.png" width="160px" alt="Jacob G.A QR" />
+    <img src="https://s3.us-east-1.amazonaws.com/www.jacobga.com/jgaqr.png" width="160px" alt="Jacob G.A QR" />
   </a>
   <br />
   <h3>Systems Architect • AI Engineer • Senior Builder • Hacker of Systems</h3>
@@ -23,7 +23,7 @@
 
 ### 🛠️ Strategic Skill Arsenal
 
-| **Architectural Core** | **AI & Intelligence** | **Edge & Hardware** | **Ops & Strategy** |
+| Architectural Core | AI & Intelligence | Edge & Hardware | Ops & Strategy |
 | :--- | :--- | :--- | :--- |
 | Kotlin (Expert), Java, Go | LLM Fine-Tuning & RAG | Jetson Orin Nano / Pi | Kubernetes & Docker |
 | Distributed Microservices | Agentic AI Frameworks | IoT & Radio Frequency | CI/CD Automation |
@@ -32,8 +32,7 @@
 
 ---
 
-### ⚡ System Core Mastery (Expertise Verification)
-En lugar de gráficas de commits, usamos indicadores de dominio real. Esto se ve mucho más limpio y profesional:
+### ⚡ System Core Mastery
 
 ```kotlin
 object JacobGA {
