@@ -32,8 +32,7 @@
 
 ### ⚡ Proof of Work (Real-time Metrics)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacobgacosta&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobgacosta&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jacobgacosta&theme=tokyonight&area=true&hide_border=true&height=220" width="100%" />
 </p>
 
 ---
