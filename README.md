@@ -1,7 +1,9 @@
-# [SYSTEM_STATE: ACTIVE] - Jacob G.A
+# [SYSTEM_STATE: ONLINE] - Jacob G.A
 
 <div align="center">
-  <img src="https://s3.us-east-1.amazonaws.com/www.jacobga.com/jgaqr.png" width="150px" />
+  <a href="https://jacobga.com/">
+    <img src="https://s3.us-east-1.amazonaws.com/www.jacobga.com/jgaqr.png" width="160px" alt="Jacob G.A QR" />
+  </a>
   <br />
   <h3>Systems Architect • AI Engineer • Senior Builder • Hacker of Systems</h3>
   <p><em>"Systems are equations; code is applied physics."</em></p>
@@ -10,10 +12,10 @@
 ---
 
 ### 🧠 Systems Architect & Technical Founder
-17+ years of engineering high-stakes infrastructure. I bridge the gap between high-level technology strategy and low-level implementation details, designing resilient, autonomous systems.
+17+ years of engineering high-stakes infrastructure. I bridge the gap between high-level technology strategy and low-level implementation, designing resilient, autonomous ecosystems.
 
-- 🏗️ **Architecture:** Distributed Systems, Reactive Paradigms, and High-Concurrency Microservices.
-- 🤖 **Applied AI:** Deep expertise in LLM Orchestration, Agentic Workflows, and Local Model Deployment (Llama, Qwen, Mistral).
+- 🏗️ **Architecture:** Distributed Systems, Reactive Paradigms, High-Concurrency Microservices.
+- 🤖 **Applied AI:** Agentic AI Frameworks, LLM Orchestration (Llama/Qwen), and Model Quantization.
 - 🛠️ **Systems Thinking:** End-to-end product design, from Bare Metal/Edge to Cloud-Native platforms.
 - 🚀 **Core Ventures:** Developing **Koupper** (Distributed Framework) & **Octopus** (Orchestration Engine).
 
@@ -30,21 +32,14 @@
 
 ---
 
-### ⚡ Proof of Work (Real-time Metrics)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jacobgacosta&theme=tokyonight&area=true&hide_border=true&height=220" width="100%" />
-</p>
+### ⚡ System Core Mastery (Expertise Verification)
+En lugar de gráficas de commits, usamos indicadores de dominio real. Esto se ve mucho más limpio y profesional:
 
----
-
-### 🚀 Strategic Projects & Research
-* **Koupper**: Scalable framework for high-efficiency distributed data pipelines.
-* **Octopus**: High-concurrency orchestration engine designed for autonomous agent coordination.
-* **El Developer Ninja**: EdTech platform scaling senior-level technical mastery to 10k+ engineers.
-
----
-
-### 🤝 Direct Interface
-- 🌐 [jacobga.com](https://jacobga.com/)
-- 📧 [jacob.gacosta@gmail.com](mailto:jacob.gacosta@gmail.com)
-- 🖥️ Open for strategic partnerships, board-level advisory, and disruptive product builds.
+```kotlin
+object JacobGA {
+    val expertise = setOf("Distributed Systems", "AI Orchestration", "System Architecture")
+    val coreLanguages = listOf("Kotlin", "Java", "Go", "Python", "C++")
+    val hardwareStack = listOf("Jetson Orin", "SDR/RF", "Edge AI")
+    
+    fun buildSolution(problem: Entropy) = ArchitectedSystems.deploy(problem)
+}
